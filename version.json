@@ -1,0 +1,16 @@
+{
+  "channels": {
+    "beta": {
+      "version": "v0.49.11",
+      "fighters": 89,
+      "hdr_overridden": 3800,
+      "moves": 10073
+    },
+    "prerelease": {
+      "version": "v0.50.7",
+      "fighters": 89,
+      "hdr_overridden": 3947,
+      "moves": 10107
+    }
+  }
+}
