@@ -1,0 +1,1 @@
+import{n as e}from"./fighter-picker.K_B56Qpt.js";var t=Array.from(document.querySelectorAll(`.change-fighter[data-slug]`)),n=document.getElementById(`fighters-empty`);n&&e(e=>{let r=0;for(let n of t){let t=e.size===0||e.has(n.dataset.slug);n.classList.toggle(`hidden`,!t),t&&r++}n.classList.toggle(`hidden`,r>0)});
